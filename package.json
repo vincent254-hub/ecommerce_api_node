@@ -1,0 +1,26 @@
+{
+  "name": "ecommerce_api_node_mongodb",
+  "version": "1.0.0",
+  "description": "an ecommerce api built with nodejs with mongoose cloud database",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincent254-hub/ecommerce_api_node.git"
+  },
+  "keywords": [
+    "a",
+    "more",
+    "efficient",
+    "ecommerce",
+    "api"
+  ],
+  "author": "vincent khamala (vincent254-hub)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincent254-hub/ecommerce_api_node/issues"
+  },
+  "homepage": "https://github.com/vincent254-hub/ecommerce_api_node#readme"
+}
